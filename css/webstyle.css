@@ -172,7 +172,7 @@ width: 100%;
 /* start content (intro) */
 
 .lading{
-    background-image: url(../../image/gray.jpg);
+    background-image: url(../image/gray.jpg);
     z-index: -1;
     background-size: cover;
     height: calc(99vh - 58px);

@@ -283,6 +283,9 @@ width: 100%;
         flex-direction: column;
         text-align: center;
     }
+      .spcial-heading {
+    font-size: 80px;
+  }
 } 
 
 .services .services-content .srv i {
